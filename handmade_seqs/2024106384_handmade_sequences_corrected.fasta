@@ -1,0 +1,16 @@
+>Ambiguous_sequence
+ATGRYSWACNTCGTAGCYTAG
+>Unambiguous_sequence_1
+ATGAGCGACTTCGTAGCTTAG
+>Unambiguous_sequence_2
+ATGAGCAACGTTCGTAGCTTAG
+>Unambiguous_sequence_3
+ATGAGTAACGTTCGTAGCTTAG
+>Reverse_sequence
+GATTAGCTGTCGTTCGAGCTA
+>Complement_sequence
+TACTCGCTGAAGCATCGGAATC
+>Reverse_complement_sequence
+CTAAGCTACGAACTCGCTCAT
+>Amino_acid_chain
+MRDSVAI
