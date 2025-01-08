@@ -1,0 +1,25 @@
+>Sequence ambiguities
+AGTSTTAGATYCGTBATGRCT
+
+>Unambiguous sequence 1
+AGTGTTAGATCCGTGATGGCT
+
+>Unambiguous sequence 2
+AGTGTTAGATTCGTTATGGCT
+
+>Unambiguous sequence 3
+AGTCTTAGATTCGTGATGACT
+
+>Reverse of unambiguous sequence 3
+TCAGTAGTGCTTAGATTCTGA
+
+>Complement of unambiguous sequence 3
+TCAGAATCTAAGCACTACTGA
+
+>Reverse-complement of unambiguous sequence 3
+AGTCATCACGAATCTAAGACT
+
+>Amino-acid chain with the 1 letter IUPAC encoding and with the "standard" genetic translation of Unambiguous sequence 3
+SLRFVMT
+
+
