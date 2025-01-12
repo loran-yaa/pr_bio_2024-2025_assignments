@@ -1,0 +1,3 @@
+UUID="72B6-F8A8" /boot/efi vfat defaults 0 2
+UUID="9328bffd-7294-4ec1-8b9f-241d633ee18e" / btrfs subvol=@,autodefrag,compress=zstd:10 0 1
+UUID="9328bffd-7294-4ec1-8b9f-241d633ee18e" /home btrfs subvol=@home,autodefrag 0 2
