@@ -1,0 +1,19 @@
+
+   /:-------------:\          pedronunes@vbox
+        :-------------------::        OS: Fedora 
+      :-----------/shhOHbmp---:\      Kernel: x86_64 Linux 6.11.4-301.fc41.x86_64
+    /-----------omMMMNNNMMD  ---:     Uptime: 6m
+   :-----------sMMMMNMNMP.    ---:    Packages: 2059
+  :-----------:MMMdP-------    ---\   Shell: bash 5.2.32
+ ,------------:MMMd--------    ---:   Resolution: No X Server
+ :------------:MMMd-------    .---:   DE: GNOME 47.0.1
+ :----    oNMMMMMMMMMNho     .----:   WM: Mutter
+ :--     .+shhhMMMmhhy++   .------/   WM Theme: Adwaita
+ :-    -------:MMMd--------------:    GTK Theme: Adwaita [GTK2/3]
+ :-   --------/MMMd-------------;     Icon Theme: Adwaita
+ :-    ------/hMMMy------------:      Font: Cantarell 11
+ :-- :dMNdhhdNMMNo------------;       Disk: 11G / 119G (10%)
+ :---:sdNMMMMNds:------------:        CPU: 11th Gen Intel Core i3-1115G4 @ 4x 1.69GHz
+ :------:://:-------------::          GPU: llvmpipe (LLVM 19.1.0, 256 bits)
+ :---------------------://            RAM: 2674MiB / 3859MiB
+
