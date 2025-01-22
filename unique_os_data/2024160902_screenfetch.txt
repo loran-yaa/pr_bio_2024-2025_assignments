@@ -1,0 +1,19 @@
+[0m[1;36m                   -`                 [0m
+[0m[1;36m                  .o+`                [0m[1;36m rufus[0m[1m@[0m[0m[1;36marchlinux[0m
+[0m[1;36m                 `ooo/                [0m[1;36m OS:[0m Arch Linux [0m
+[0m[1;36m                `+oooo:               [0m[1;36m Kernel:[0m x86_64 Linux 6.11.7-arch1-1[0m
+[0m[1;36m               `+oooooo:              [0m[1;36m Uptime:[0m 34m[0m
+[0m[1;36m               -+oooooo+:             [0m[1;36m Packages:[0m 849[0m
+[0m[1;36m             `/:-:++oooo+:            [0m[1;36m Shell:[0m bash 5.2.37[0m
+[0m[1;36m            `/++++/+++++++:           [0m[1;36m Resolution:[0m 1920x1080[0m
+[0m[1;36m           `/++++++++++++++:          [0m[1;36m DE:[0m KDE[0m
+[0m[1;36m          `/+++o[0m[36moooooooo[0m[1;36moooo/`        [0m[1;36m WM:[0m KWin[0m
+[0m[36m         [0m[1;36m./[0m[36mooosssso++osssssso[0m[1;36m+`       [0m[1;36m GTK Theme:[0m Breeze-Dark [GTK2], Breeze [GTK3][0m
+[0m[36m        .oossssso-````/ossssss+`      [0m[1;36m Icon Theme:[0m Mkos-Big-Sur-Night[0m
+[0m[36m       -osssssso.      :ssssssso.     [0m[1;36m Disk:[0m 71G / 108G (69%)[0m
+[0m[36m      :osssssss/        osssso+++.    [0m[1;36m CPU:[0m AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx @ 8x 2.1GHz[0m
+[0m[36m     /ossssssss/        +ssssooo/-    [0m[1;36m GPU:[0m AMD Radeon Vega 8 Graphics (radeonsi, raven, LLVM 18.1.8, DRM 3.59, 6.11.7-arch1-1)[0m
+[0m[36m   `/ossssso+/:-        -:/+osssso+-  [0m[1;36m RAM:[0m 2781MiB / 5801MiB[0m
+[0m[36m  `+sso+:-`                 `.-/+oso: [0m
+[0m[36m `++:.                           `-/+/[0m
+[0m[36m .`                                 `/[0m
