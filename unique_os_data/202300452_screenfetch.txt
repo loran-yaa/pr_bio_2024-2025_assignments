@@ -1,0 +1,36 @@
+[1;31m:: [0mFinding distro...found as 'Debian 12'
+[1;31m:: [0mFinding hostname and user...found as 'bread@binfbreadpc'
+[1;31m:: [0mFinding kernel version...found as 'x86_64 Linux 6.1.0-27-amd64'
+[1;31m:: [0mFinding current uptime...found as '31m'
+[1;31m:: [0mFinding current package count...found as '1249'
+[1;31m:: [0mFinding current shell...found as 'bash 5.2.15'
+[1;31m:: [0mFinding current resolution(s)...found as '1366x665'
+[1;31m:: [0mFinding desktop environment...found as 'LXDE'
+[1;31m:: [0mFinding window manager...found as 'OpenBox'
+[1;31m:: [0mFinding window manager theme...found as 'Onyx'
+[1;31m:: [0mFinding GTK2 theme...found as 'Clearlooks'
+[1;31m:: [0mFinding GTK3 theme...found as 'Not Found'
+[1;31m:: [0mFinding icon theme...found as 'nuoveXT2'
+[1;31m:: [0mFinding user font...found as 'Sans 10'
+[1;31m:: [0mFinding current CPU...found as 'Intel Core i3-1005G1 @ 2x 1.19GHz'
+[1;31m:: [0mFinding current disk usage...found as '125G / 278G (46%%)'
+[1;31m:: [0mFinding current GPU...found as 'Not Found'
+[1;31m:: [0mFinding current RAM usage...found as '625MiB / 3915MiB'
+[0m[1;37m         _,met$$$$$gg.          [0m[1;31m bread[0m[1m@[0m[0m[1;31mbinfbreadpc[0m
+[0m[1;37m      ,g$$$$$$$$$$$$$$$P.       [0m[1;31m OS:[0m Debian 12 bookworm[0m
+[0m[1;37m    ,g$$P""       """Y$$.".     [0m[1;31m Kernel:[0m x86_64 Linux 6.1.0-27-amd64[0m
+[0m[1;37m   ,$$P'              `$$$.     [0m[1;31m Uptime:[0m 31m[0m
+[0m[1;37m  ',$$P       ,ggs.     `$$b:   [0m[1;31m Packages:[0m 1249[0m
+[0m[1;37m  `d$$'     ,$P"'   [0m[1;31m.[0m[1;37m    $$$    [0m[1;31m Shell:[0m bash 5.2.15[0m
+[0m[1;37m   $$P      d$'     [0m[1;31m,[0m[1;37m    $$P    [0m[1;31m Resolution:[0m 1366x665[0m
+[0m[1;37m   $$:      $$.   [0m[1;31m-[0m[1;37m    ,d$$'    [0m[1;31m DE:[0m LXDE[0m
+[0m[1;37m   $$\;      Y$b._   _,d$P'     [0m[1;31m WM:[0m OpenBox[0m
+[0m[1;37m   Y$$.    [0m[1;31m`.[0m[1;37m`"Y$$$$P"'         [0m[1;31m WM Theme:[0m Onyx[0m
+[0m[1;37m   `$$b      [0m[1;31m"-.__              [0m[1;31m GTK Theme:[0m Clearlooks [GTK2][0m
+[0m[1;37m    `Y$$                        [0m[1;31m Icon Theme:[0m nuoveXT2[0m
+[0m[1;37m     `Y$$.                      [0m[1;31m Font:[0m Sans 10[0m
+[0m[1;37m       `$$b.                    [0m[1;31m Disk:[0m 125G / 278G (46%)[0m
+[0m[1;37m         `Y$$b.                 [0m[1;31m CPU:[0m Intel Core i3-1005G1 @ 2x 1.19GHz[0m
+[0m[1;37m            `"Y$b._             [0m[1;31m GPU:[0m VMware SVGA II Adapter[0m
+[0m[1;37m                `""""           [0m[1;31m RAM:[0m 625MiB / 3915MiB[0m
+[0m[1;37m                                [0m
