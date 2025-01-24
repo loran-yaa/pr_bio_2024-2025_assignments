@@ -1,0 +1,23 @@
+>DNA sequence ambiguities
+ATGCTRAGCYTGCBCTWTCAG
+
+>Unambiguous sequence 1
+ATGCTAAGCCTGCCCTATCAG
+
+>Unambiguous sequence 2
+ATGCTGAGCTTGCGCTTTCAG
+
+>Unambiguous sequence 3
+ATGCTGAGCTTGCTCTTTCAG
+
+>Reverse unambiguous sequence 2
+GACTTTCGCGTTCGAGTCGTA
+
+>Complement unambiguous sequence 2
+TACGACTCGAACGCGAAAGTC
+
+>Reverse-complemente unambiguous sequence 2
+CTGAAAGCGCAAGCTCAGCAT
+
+>Amino-acid chain sequence 2 
+MLSLRFQ
