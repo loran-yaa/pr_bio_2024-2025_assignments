@@ -1,0 +1,24 @@
+>Original Sequence
+AATAGRYGCSAAGTNCAATCC
+
+>Unambiguous sequence_01
+AATAGACGCCAAGTACAATCC
+
+>Unambiguous sequence_02
+AATAGGCGCGAAGTGCAATCC
+
+>Unambiguous sequence_03
+AATAGATGCGAAGTCCAATCC
+
+>Reverse Sequence
+CCTAACATGAACCGCAGATAA
+
+>Complement Sequence
+TTATCTGCGGTTCATGTTAGG
+
+>Reverse-complement Sequence
+GGATTGTACTTGGCGTCTATT
+
+>Amino-acid chain
+NRRQVQS
+
