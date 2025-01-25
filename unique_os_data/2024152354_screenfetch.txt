@@ -1,0 +1,18 @@
+[0m[1;32m                                      [0m[1;32m tigas[0m[1m@[0m[0m[1;32mHP-Stream360Tiago[0m
+[0m[1;32m MMMMMMMMMMMMMMMMMMMMMMMMMmds+.       [0m[1;32m OS:[0m Linuxmint 22 wilma[0m
+[0m[1;32m MMm----::-://////////////oymNMd+`    [0m[1;32m Kernel:[0m x86_64 Linux 6.8.0-49-generic[0m
+[0m[1;32m MMd      [0m[1;37m/++                [0m[1;32m-sNMd:   [0m[1;32m Uptime:[0m 1h 25m[0m
+[0m[1;32m MMNso/`  [0m[1;37mdMM    `.::-. .-::.` [0m[1;32m.hMN:  [0m[1;32m Packages:[0m 2314[0m
+[0m[1;32m ddddMMh  [0m[1;37mdMM   :hNMNMNhNMNMNh: [0m[1;32m`NMm  [0m[1;32m Shell:[0m bash 5.2.21[0m
+[0m[1;32m     NMm  [0m[1;37mdMM  .NMN/-+MMM+-/NMN` [0m[1;32mdMM  [0m[1;32m Resolution:[0m 1366x768[0m
+[0m[1;32m     NMm  [0m[1;37mdMM  -MMm  `MMM   dMM. [0m[1;32mdMM  [0m[1;32m DE:[0m GNOME[0m
+[0m[1;32m     NMm  [0m[1;37mdMM  -MMm  `MMM   dMM. [0m[1;32mdMM  [0m[1;32m WM:[0m Muffin[0m
+[0m[1;32m     NMm  [0m[1;37mdMM  .mmd  `mmm   yMM. [0m[1;32mdMM  [0m[1;32m WM Theme:[0m Mint-Y-Dark-Purple (Mint-Y)[0m
+[0m[1;32m     NMm  [0m[1;37mdMM`  ..`   ...   ydm. [0m[1;32mdMM  [0m[1;32m GTK Theme:[0m Mint-Y-Dark-Purple [GTK2/3][0m
+[0m[1;32m     hMM- [0m[1;37m+MMd/-------...-:sdds  [0m[1;32mdMM  [0m[1;32m Icon Theme:[0m Mint-Y-Purple[0m
+[0m[1;32m     -NMm- [0m[1;37m:hNMNNNmdddddddddy/`  [0m[1;32mdMM  [0m[1;32m Font:[0m Ubuntu 10[0m
+[0m[1;32m      -dMNs-[0m[1;37m``-::::-------.``    [0m[1;32mdMM  [0m[1;32m Disk:[0m 43G / 57G (80%)[0m
+[0m[1;32m       `/dMNmy+/:-------------:/yMMM  [0m[1;32m CPU:[0m Intel Celeron N3060 @ 2x 2,48GHz[0m
+[0m[1;32m          ./ydNMMMMMMMMMMMMMMMMMMMMM  [0m[1;32m GPU:[0m Mesa Intel(R) HD Graphics 400 (BSW)[0m
+[0m[1;32m             \.MMMMMMMMMMMMMMMMMMM    [0m[1;32m RAM:[0m 1906MiB / 3822MiB[0m
+[0m[1;32m                                      [0m
