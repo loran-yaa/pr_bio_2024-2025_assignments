@@ -1,0 +1,22 @@
+..............                                  
+            ..,;:ccc,.                           kali@kali
+          ......''';lxO.                         OS: Kali Linux 
+.....''''..........,:ld;                         Kernel: x86_64 Linux 6.8.11-amd64
+           .';;;:::;,,.x,                        Uptime: 11m
+      ..'''.            0Xxoc:,.  ...            Packages: 2824
+  ....                ,ONkc;,;cokOdc',.          Shell: zsh 5.9
+ .                   OMo           ':ddo.        Resolution: 1366x702
+                    dMc               :OO;       DE: Xfce
+                    0M.                 .:o.     WM: Xfwm4
+                    ;Wd                          WM Theme: Kali-Dark
+                     ;XO,                        GTK Theme: Kali-Dark [GTK2]
+                       ,d0Odlc;,..               Icon Theme: Flat-Remix-Blue-Dark
+                           ..',;:cdOOd::,.       Font: Cantarell 11
+                                    .:d;.':;.    Disk: 8.2G / 8.2G (100%)
+                                       'd,  .'   CPU: AMD Ryzen 5 PRO 3350G with Radeon Vega Graphics @ 4x 3.593GHz
+                                         ;l   .. GPU: VMware SVGA II Adapter
+                                          .o     RAM: 1921MiB / 3922MiB
+                                            c   
+                                            .'  
+                                             .  
+                                                                             
