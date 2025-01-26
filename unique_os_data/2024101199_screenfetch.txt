@@ -1,0 +1,20 @@
+           /:-------------:\          bruno@vbox
+        :-------------------::        OS: Fedora 
+      :-----------/shhOHbmp---:\      Kernel: x86_64 Linux 6.11.4-301.fc41.x86_64
+    /-----------omMMMNNNMMD  ---:     Uptime: 2h 1m
+   :-----------sMMMMNMNMP.    ---:    Packages: 2056
+  :-----------:MMMdP-------    ---\   Shell: bash 5.2.32
+ ,------------:MMMd--------    ---:   Resolution: No X Server
+ :------------:MMMd-------    .---:   DE: GNOME 47.0.1
+ :----    oNMMMMMMMMMNho     .----:   WM: Mutter
+ :--     .+shhhMMMmhhy++   .------/   WM Theme: Adwaita
+ :-    -------:MMMd--------------:    GTK Theme: Adwaita [GTK2/3]
+ :-   --------/MMMd-------------;     Icon Theme: Adwaita
+ :-    ------/hMMMy------------:      Font: Cantarell 11
+ :-- :dMNdhhdNMMNo------------;       Disk: 11G / 29G (38%)
+ :---:sdNMMMMNds:------------:        CPU: Intel Core i5-4258U @ 3x 2.41GHz
+ :------:://:-------------::          GPU: llvmpipe (LLVM 19.1.0, 256 bits)
+ :---------------------://            RAM: 2454MiB / 3907MiB
+                                     
+
+
