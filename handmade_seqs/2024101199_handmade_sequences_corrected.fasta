@@ -1,0 +1,16 @@
+>Seq_ambiguous
+GACTGGTBRCAAVTGACAAGH
+>Seq_unambiguous_1
+GACTGGTGACAACTGACAAGA
+>Seq_unambiguous_2
+GACTGGTTACAAGTGACAAGT
+>Seq_unambiguous_3
+GACTGGTCGCAAATGACAAGC
+>Seq_unambiguous_3_Reverse
+CGAACAGTAAACGCTGGTCAG
+>Seq_unambiguous_3_Complement
+CTGACCAGCGTTTACTGTTCG
+>Seq_unambiguous_3_Reverse_Complement
+GCTTGTCATTTGCGACCAGTC
+>Seq_unambiguous_3_Amino_Acid_Code
+DWSQMTS
