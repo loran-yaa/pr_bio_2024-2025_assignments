@@ -1,0 +1,16 @@
+>Initial sequence
+AAGCTGARNNTGACGTACYAC
+>Unambigous sequence 1
+AAGCTGAGGATGACGTACCAC
+>Unambigous sequence 2
+AAGCTGAGCTTGACGTACTAC
+>Unambiogus sequence 3
+AAGCTGAGAGTGACGTACTAC
+>Reverse of string 2
+CATCATGCAGTTCGAGTCGAA
+>Complement of string 2
+TTCGACTCGAACTGCATGATG
+>Reverse complement of sequence 2
+GTAGTACGTCAAGCTCAGCTT
+>Amino-acid chain that is produced by sequence 2
+FDSNCMM
